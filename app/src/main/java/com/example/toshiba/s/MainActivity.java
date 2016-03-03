@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
         yTEXT= (TextView)findViewById(R.id.yTEXT);
         zTEXT= (TextView)findViewById(R.id.zTEXT);
 
-//dddddddd
+
     }
 
     @Override
